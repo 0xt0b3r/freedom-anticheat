@@ -41,9 +41,6 @@ Search | Replace
 `RegisterServerCallback("esx` | `RegisterServerCallback("fac`
 `TriggerServerCallback("esx` | `TriggerServerCallback("fac`
 
-`fac` is an example and does not necessarily need to be used. You can put anything you want here.
-As long as `esx` is changed to something else
-
 [![Edit ESX](https://i.imgur.com/JwMIDdN.png)](https://i.imgur.com/JwMIDdN.png)
 
 ### Overview of other events without prefix with `esx`
