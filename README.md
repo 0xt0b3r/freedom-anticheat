@@ -47,9 +47,6 @@ Search | Replace
 ⚠️ You should rename it or take it out of the list. If you don't do this, your players will be banned.
 ⚠️ Everything that your scripts called and is listed here, must be renamed or removed from the list
 
-[![Client List](https://img.shields.io/badge/Client%20List-fake_events.lua-blue)](https://github.com/TigoDevelopment/freedomanticheat/blob/master/client/anticheat/fake_events.lua)
-[![Server List](https://img.shields.io/badge/Server%20List-fake_events.lua-red)](https://github.com/TigoDevelopment/freedomanticheat/blob/master/server/anticheat/fake_events.lua)
-
 Event perfix | Example event
 :-------------|:--------------
 `bank` | `bank:transfer`
